@@ -1,1 +1,2 @@
 Adding some text here so that git senpai notice me UwU!
+Adding additional line of text here so i can test the changing the git commit message editor
